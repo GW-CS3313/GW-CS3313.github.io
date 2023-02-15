@@ -56,10 +56,10 @@ layout: home
 | Finite State Automata and Pushdown Automata (Weeks 1-6) | Materials
 | :--- |:---  |
 |  Deterministic Finite Automata (Week 1) <br> Chapter 1.1 (Sipser) <br> Chapter 2 (Linz)  |  [Lecture 1 -- Introduction to Finite Automata](lectures/lecture1_handout.pdf) <br> [Lecture 2 -- Building Finite Automata](lectures/lecture2_handout.pdf) <br> [Quiz 1](quiz/quiz1.pdf)|
-|  Nondeterministic Finite Automata (Week 2) <br>  <br>  |  [Lecture 3 -- Introduction to NFAs](lectures/lecture3_handout.pdf) <br> [Lecture 4 -- NFAs and Equivalence to DFAs ](lectures/lecture4_marked.pdf) <br> [Lab 2](labs/Lab2_website.pdf) <br> [Quiz 2](quiz/quiz2.pdf) |
-|  Regular Expressions and Non-regular Languages (Week 3) <br>  <br>  |  [Lecture 5 -- Regular Expressions and equivalence to NFAs](lectures/lecture5_marked.pdf) <br> [Lecture 6 --  Pumping Lemma](lectures/lecture6_marked.pdf) <br> [Lab 3](labs/Lab3_website.pdf) <br> [Quiz 3](quiz/quiz3.pdf) |
-|  Non-regular Languages and Pushdown Automata (Week 4) <br>  <br>  |  [Lecture 7 -- Using the FA pumping lemma](lectures/lecture7_marked.pdf) <br> [Lecture 8 --  Pushdown Automata ](lectures/lecture8.pdf) <br> [Lab 4](labs/Lab4_website.pdf) |
-|  Context-Free Grammars and Equivalence to PDAs (Week 5) <br>  <br>  |  [Lecture 9 -- CFGs](lectures/lecture9.pdf) <br> [Lecture 10 --  PDA==CFG, and CFG Pumping Lemma ]() <br> [Lab 5]() |
+| Nondeterministic Finite Automata (Week 2) <br>  <br>  |  [Lecture 3 -- Introduction to NFAs](lectures/lecture3_handout.pdf) <br> [Lecture 4 -- NFAs and Equivalence to DFAs ](lectures/lecture4_marked.pdf) <br> [Lab 2](labs/Lab2_website.pdf) <br> [Quiz 2](quiz/quiz2.pdf) |
+| Regular Expressions and Non-regular Languages (Week 3) <br>  <br>  |  [Lecture 5 -- Regular Expressions and equivalence to NFAs](lectures/lecture5_marked.pdf) <br> [Lecture 6 --  Pumping Lemma](lectures/lecture6_marked.pdf) <br> [Lab 3](labs/Lab3_website.pdf) <br> [Quiz 3](quiz/quiz3.pdf) |
+| Non-regular Languages and Pushdown Automata (Week 4) <br>  <br>  |  [Lecture 7 -- Using the FA pumping lemma](lectures/lecture7_marked.pdf) <br> [Lecture 8 --  Pushdown Automata ](lectures/lecture8.pdf) <br> [Lab 4](labs/Lab4_website.pdf) |
+| Context-Free Grammars and Equivalence to PDAs (Week 5) <br>  <br>  |  [Lecture 9 -- CFGs](lectures/lecture9.pdf) <br> [Lecture 10 --  PDA==CFG, and CFG Pumping Lemma ]() <br> [Lab 5](labs/lab5_website.pdf) |
 | <b> Exam 1 (Week 6) Feb. 23 </b> | All material on automata and languages they recognize. |
 
 | Computability Theory (Weeks 7-10)  | Materials
