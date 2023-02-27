@@ -89,6 +89,7 @@ layout: home
 
 </div>
 
+<!---
 ## Office Hours -- Week of Feb. 20##
 
 <div style="font-size:90%">
@@ -98,5 +99,6 @@ layout: home
 | 11:00-1:00 -- Pravin <br> 2:30-4:00 -- Karl <br> 4:00-6:00 -- Suvasree <br> 6:00-7:30 -- Kyle |  10:00-11:00 -- Arkady <br> 12:45-2:45 -- Ryah <br> 2:45-3:45 -- Oliver <br> 5:00-7:00 -- Clare |  3:30-5:00 -- Clare <br> 5:30-8:30 -- Ryah | 10:00-11:00 -- Arkady |  |
 
 </div>
+-->
 
 All office hours will be held in the common area on the 4th floor of SEH.  For instructions on accessing office hours via Zoom, see Piazza.
