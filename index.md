@@ -64,7 +64,7 @@ layout: home
 
 | Computability Theory (Weeks 7-10)  | Materials
 | :--- |:---  |
-|  Turing Machines (Week 7) <br>  <br>   |  [Lecture 12 -- Introduction to Turing Machines](lectures/lecture12.pdf) <br> [Lecture 3 -- Properties of Turing Machines]() |
+|  Turing Machines (Week 7) <br>  <br>   |  [Lecture 12 -- Introduction to Turing Machines](lectures/lecture12.pdf) <br> [Lecture 13 -- Properties of Turing Machines]() |
 | <b> Exam 2 (Week 10) Mar. 30 </b> | All material on Turing machines and computability |
 
 | Complexity Theory (Weeks 7-10)  | Materials
