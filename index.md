@@ -66,7 +66,7 @@ layout: home
 | :--- |:---  |
 |  Turing Machines (Week 7) <br>  <br>   |  [Lecture 12 -- Introduction to Turing Machines](lectures/lecture12.pdf) <br> [Lecture 13 -- Properties of Turing Machines](lectures/lecture13_marked.pdf) <br> [Lab 6](labs/Lab6_website.pdf) |
 |  Decidable and Turing-recognizable Languages (Week 8) <br>  <br>   |  [Lecture 14 -- Decidable Languages](lectures/lecture14_marked.pdf) <br> [Lecture 15 -- Undecidability](lectures/lecture15_marked.pdf) <br> [Lab 7](labs/Lab7_website.pdf) |
-|  Reductions (Week 9) <br>  <br>   |  [Lecture 16 -- Proving Undecidability by Reduction](lectures/lecture16_marked.pdf) <br> [Lecture 17 -- Reducibility]() <br> [Lab 8](labs/Lab8_website.pptx) |
+|  Reductions (Week 9) <br>  <br>   |  [Lecture 16 -- Proving Undecidability by Reduction](lectures/lecture16_marked.pdf) <br> [Lecture 17 -- Reducibility and Kolmogorov Complexity](lectures/lecture17_marked.pdf) <br> [Lab 8](labs/Lab8_website.pptx) |
 | <b> Exam 2 (Week 10) Mar. 30 </b> | All material on Turing machines and computability |
 
 | Complexity Theory (Weeks 7-10)  | Materials
