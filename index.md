@@ -99,7 +99,7 @@ layout: home
 
 | Monday  | Tuesday | Wednesday | Thursday | Friday |
 | :--- | :--- | :--- | :--- | :--- |
-| 11:00-12:30 -- Pravin <br> 1:15-2:45 -- Karl <br> 6:00-7:30 -- Kyle |  10:00-11:00 -- Arkady <br> 12:45-2:45 -- Ryah <br> 3:00-4:30 -- Oliver <br> 5:00-7:00 -- Clare |  3:30-4:30 -- Clare <br> 5:30-7:30 -- Ryah | 10:00-11:00 -- Arkady |  |
+| 11:00-12:30 -- Pravin <br> 1:15-2:45 -- Karl <br> 4:00-6:00 -- Suvasree <br> 6:00-7:30 -- Kyle |  10:00-11:00 -- Arkady <br> 12:45-2:45 -- Ryah <br> 3:00-4:30 -- Oliver <br> 5:00-7:00 -- Clare |  3:30-4:30 -- Clare <br> 5:30-7:30 -- Ryah | 10:00-11:00 -- Arkady |  |
 
 </div>
 
