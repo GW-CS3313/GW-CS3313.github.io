@@ -93,7 +93,7 @@ layout: home
 </div>
 
 
-## Office Hours -- Week of Mar. 27##
+## Office Hours -- Week of Mar. 27 ##
 
 <div style="font-size:90%">
 
