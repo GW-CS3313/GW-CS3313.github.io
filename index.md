@@ -69,9 +69,9 @@ layout: home
 |  Reductions (Week 9) <br>  <br>   |  [Lecture 16 -- Proving Undecidability by Reduction](lectures/lecture16_marked.pdf) <br> [Lecture 17 -- Reducibility and Kolmogorov Complexity](lectures/lecture17_marked.pdf) <br> [Lab 8](labs/Lab8_website.pptx) |
 | <b> Exam 2 (Week 10) Mar. 30 </b> | All material on Turing machines and computability <br> [Lecture 18 -- exam review](lectures/lecture18.pdf) |
 
-| Complexity Theory (Weeks 7-10)  | Materials
+| Complexity Theory (Weeks 11-14)  | Materials
 | :--- |:---  |
-| | |
+|  P and NP (Week 11) <br>  <br>   |  [Lecture 19 -- Deterministic Time Complexity and P](lectures/lecture19_marked.pdf) <br> [Lecture 20 -- NP]() <br> [Lab 9]() |
 
 | Summary   | Materials
 | :--- |:---  |
