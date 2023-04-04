@@ -76,7 +76,7 @@ layout: home
 | Summary   | Materials
 | :--- |:---  |
 |  Course Summary   |   [Course Summary]()|  
-| <b> Final Exam </b> Finals Week | Comprehensive but will focus primarily on material after Exam 2.|
+| <b> Final Exam </b> May 9, 10:20-12:20 | Comprehensive but will focus primarily on material after Exam 2.|
 
 
 
