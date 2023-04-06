@@ -71,7 +71,7 @@ layout: home
 
 | Complexity Theory (Weeks 11-14)  | Materials
 | :--- |:---  |
-|  P and NP (Week 11) <br>  <br>   |  [Lecture 19 -- Deterministic Time Complexity and P](lectures/lecture19_marked.pdf) <br> [Lecture 20 -- NP]() <br> [Lab 9]() |
+|  P and NP (Week 11) <br>  <br>   |  [Lecture 19 -- Deterministic Time Complexity and P](lectures/lecture19_marked.pdf) <br> [Lecture 20 -- The Class NP](lectures/lecture20_marked.pdf) <br> [Lab 9](labs/Lab9_website.pptx) |
 
 | Summary   | Materials
 | :--- |:---  |
