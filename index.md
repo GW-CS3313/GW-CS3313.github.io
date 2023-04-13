@@ -72,7 +72,7 @@ layout: home
 | Complexity Theory (Weeks 11-14)  | Materials
 | :--- |:---  |
 |  P and NP (Week 11) <br>  <br>   |  [Lecture 19 -- Deterministic Time Complexity and P](lectures/lecture19_marked.pdf) <br> [Lecture 20 -- The Class NP](lectures/lecture20_marked.pdf) <br> [Lab 9](labs/Lab9_website.pptx) |
-|  NP Completeness (Week 12) <br>  <br>   |  [Lecture 21 -- NP Completeness of SAT](lectures/lecture21_marked.pdf) <br> [Lecture 22 -- More NP-complete Problems]() <br> [Lab 10](Labs/Lab10.pdf) |
+|  NP Completeness (Week 12) <br>  <br>   |  [Lecture 21 -- NP Completeness of SAT](lectures/lecture21_marked.pdf) <br> [Lecture 22 -- More NP-complete Problems and co-NP](lectures/lecture22_marked.pdf) <br> [Lab 10](Labs/Lab10.pdf) |
 
 | Summary   | Materials
 | :--- |:---  |
