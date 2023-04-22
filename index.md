@@ -73,7 +73,7 @@ layout: home
 | :--- |:---  |
 |  P and NP (Week 11) <br>  <br>   |  [Lecture 19 -- Deterministic Time Complexity and P](lectures/lecture19_marked.pdf) <br> [Lecture 20 -- The Class NP](lectures/lecture20_marked.pdf) <br> [Lab 9](labs/Lab9_website.pptx) |
 |  NP Completeness (Week 12) <br>  <br>   |  [Lecture 21 -- NP Completeness of SAT](lectures/lecture21_marked.pdf) <br> [Lecture 22 -- More NP-complete Problems and co-NP](lectures/lecture22_marked.pdf) <br> [Lab 10](Labs/Lab10.pdf) |
-|  Interactive Proofs (Week 13) <br>  <br>   |  [Lecture 23 -- Interactive Proof for GNI](lectures/lecture23_marked.pdf) <br> [Lecture 24 -- co-NP \subseteq IP](lectures/lecture24_marked.pdf) <br> [Lab 11]() |
+|  Interactive Proofs (Week 13) <br>  <br>   |  [Lecture 23 -- Interactive Proof for GNI](lectures/lecture23_marked.pdf) <br> [Lecture 24 -- co-NP \subseteq IP](lectures/lecture24_marked.pdf) <br> [Lab 11](labs/Lab11_website.pdf) |
 
 | Summary   | Materials
 | :--- |:---  |
