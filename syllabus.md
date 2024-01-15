@@ -7,27 +7,26 @@ permalink: /syllabus/
 
 **Instructor:** Prof. Arkady Yerukhimovich
 **Email:** [arkady@gwu.edu](mailto:arkady@gwu.edu)
-**Prerequisites:** Discrete Math (CS1311), Software Engineering (CS 2113), and Computer Architecture (CS 2461) (See [undergraduate curriculum](https://www.cs.seas.gwu.edu/bachelor-science-program/)).
+**Prerequisites:** Software Engineering (CS 2113); and Discrete Structures II (CS2312) or Introduction to Computer Systems (CS 2460) or Computer Architecture (CS 2461) (See [undergraduate curriculum](https://www.cs.seas.gwu.edu/bachelor-science-program/)).
 
 **Time/Place:**
   * **Class meets: Tuesday, Thursday 11:10am - 12:25pm in SEH 1300, 1400, and 1450**
 
 **Office Hours:**
-Check [Piazza](https://piazza.com/gwu/) for updated hours.
+Check [Course Homepage](https://gw-cs3313.github.io/) for updated hours.
 
 **Online Platforms**
 * Piazza for discussions
-* Blackboard (Grades, Synchronous lectures and recordings, Homework)
-* Webpage - course slides, recordings, tutorials, links to software
+* Gradescope for homework submission and grades
+* Blackboard for synchronous lectures and recordings
+* Webpage for lecture slides, tutorials, and other materials
 
 **Course Staff:**
   - [Suvasree Biswas](mailto:suvasree@gwmail.gwu.edu) - GTA
-  - [Oliver Broadrick](mailto:obroadrick@gwmail.gwu.edu) - GTA
-  - [Ryah Carpenter](mailto:rcarpenter349@gwmail.gwu.edu) - UTA
-  - [Kyle Vitale](mailto: kylevitale2@gwu.edu) - UTA
-  - [Clare Jenney](mailto:cjenney77@gwmail.gwu.edu) - LA
-  - [Pravin Khanal](mailto:pravinkhanal62@gwmail.gwu.edu) - LA
-  - [Karl Simon](mailto:ksimon24@gwmail.gwu.edu) - LA
+  - [Ethan Cohen](mailto:ecohen02@gwu.edu) - UTA
+  - [Clare Jenney](mailto:cjenney77@gwu.edu) - UTA
+  - [Ozzy Simpson](mailto:ozzy@gwu.edu) - UTA
+  - [Abdulrahman Alsaleh](mailto:aalsaleh31@gwu.edu) - LA
 
 ### Course Description and Learning Outcomes  ###
 
@@ -45,31 +44,33 @@ This is a core undergraduate Computer Science course on the theory of computing.
 
 ### Textbook and Resources  ###
 
-There are three options for a textbook; the instructor recommends the book by Sipser, but all three books will have relevant material for review.
+There are three options for a textbook; the instructor recommends the book by Sipser, but all three books will have relevant material for review.  The textbooks are NOT required, but can be beneficial for additional reading.
   * **Primary Text:** [Introduction to the Theory of Computation](http://www.cengage.com/computerscience) by Michael Sipser, published by CENGAGE Learning, 3rd edition.
   * **Alternate Text:**
     * [An Introduction to Formal Languages and Automata, 6th edition,](http://jblearning.com) by Peter Linz, published by Jones and Bartlett Learning.  (6th edition) -- this book gives a more detailed overview of material covered in the first 2/3 of the course.
     * [Introduction to Theoretical Computer Science](https://github.com/boazbk/tcs/releases/download/v0.94/introtcs_august21_2022.pdf) by Boaz Barak -- this book gives a more advanced overview of the material covered in this course along with many advanced topics.
 
+  * **Software:** [JFLAP Automata Simulator](http://jflap.org):   this is an automata simulation tool that we will be using to design and test automata.
 
-Software:
-
-  * [JFLAP Automata Simulator](http://jflap.org):   this is an automata simulation tool that we will be using to design and test automata.
-
-  * **Lab Sections** You must be registered in a lab section -- the sections meet on Wednesday 10:00am and 11:15am. These will be conducted by the TAs. The labs will review material but will also include exercises, quizzes and discussions.
+### Lab Sections  ### 
+You must be registered in a lab section -- the sections meet on Wednesday 10:00am and 11:15am. These will be conducted by the TAs. The labs will review material but will also include exercises, quizzes and discussions.
 
 ### Workload and Grading  ###
 The course will be taught through live synchronous lectures. As a 3 credit course, it will require a minimum of 2.5 hours per week of direct instruction and minimum of 5 hours of independent learning. In addition, the laboratory section will require 75 minutes of direct instruction and will include independent learning exercises to assist in your learning. Over the course of the semester, your independent learning will include readings (lecture notes and/or textbook), and homeworks. The lectured will include presentation of material, exercises, and discussions.  All lectures will be recorded, and recordings will be provided on blackboard.
 
 **Grading:**
-   * **20%: Quizzes and Class participation.** Quizzes will be held either during the lab or during the lecture session. Late arrival means you may miss the quiz - no extra time will be provided for those who arrive late. On average there will be a quiz scheduled approximately every week except during the weeks of the two exams and the first week of class. The lowest two quiz scores will be dropped when computing the grade.   
+   * **20%: Class participation** The class participation grade will consist of the following:
+   
+    * Discussion participation:  Students are expected to actively participate in lectures and lab by asking questions and engaging in discussion, as well as in online discussion through Piazza.  Your level of engagement will be reflected in the participation grade.
 
-   * Class Participation: The grades for class participation will be based in part on the required in-class exercises (as a group) during the lab or lecture sessions. There will be a number of these in-class exercises (during the lecture  and/or  during the lab), and the exercises will be given out during class. In addition, students are expected to actively participate in lectures and lab by asking questions and engaging in discussion, and level of engagement will be reflected in the participation grade.
+    * In-class quizzes: Quizzes will be held either during the lab or during the lecture session. Late arrival means you may miss the quiz - no extra time will be provided for those who arrive late. On average there will be a quiz scheduled approximately every week except during the weeks of the two exams and the first week of class.   
+
+    * Lab exercises:  There will be required in-class (group) exercises during the lab or lecture sessions.  Participation in and submission of these exercises will count towards your participation grade.
 
    * **30%: Homeworks.** A number of homework assignments will be given. The goal of the homework is to improve your learning of the concepts covered in the lectures. No collaboration of any kind on the homework.  The lowest homework score will be dropped when computing the grade.
 
    * **50%: Three exams.**
-    * There will be two (midterm) exams, one covering regular languages,  finite automata, and context free languages and push-down automata and the other covering computability theory. The final exam will be comprehensive but will focus mostly on content after the second exam.  The exams will be worth 20% each with the exam on which you receive the lowest score counting for only 10%.   
+    * There will be two (midterm) exams, one covering regular languages,  finite automata, context free languages and push-down automata; and the other covering computability theory. The final exam will be comprehensive but will focus mostly on content after the second midterm exam.  The exams will be worth 20% each with the exam on which you receive the lowest score counting for only 10%.   
 
 **Final Grading**
   * Do I curve the grades? Yes.

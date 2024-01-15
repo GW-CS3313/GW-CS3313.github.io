@@ -18,7 +18,7 @@ layout: home
         <li><b> Suvasree Biswas </b> (GTA)</li>
         <li><a href="mailto:suvasree@gwmail.gwu.edu">suvasree@gwmail.gwu.edu</a> </li>
         <li><b> Clare Jenney </b> (UTA) </li>
-        <li><a href="mailto:cjenney77@gwu.eduu">cjenney77@gwu.edu</a> </li>
+        <li><a href="mailto:cjenney77@gwu.edu">cjenney77@gwu.edu</a> </li>
         <li><b> Abdulrahman Alsaleh </b> (LA) </li>
         <li><a href="mailto:aalsaleh31@gwu.edu">aalsaleh31@gwu.edu</a> </li>
       </ul>
@@ -47,12 +47,41 @@ layout: home
 
 | Introduction  | Materials
 | :--- |:---  |
-| Week 1-Lecture 1 |   [Course Introduction](lectures/lecture0_handout.pdf) |  
+| Week 1-Lecture 1 |   [Course Introduction]() |  
 | Lab Week 1  | [Review: Proof techniques, Languages, Graphs.](labs/Lab1.pdf) |
 
 | Finite State Automata and Pushdown Automata (Weeks 1-6) | Materials
 | :--- |:---  |
-|  Deterministic Finite Automata (Week 1) <br> Chapter 1.1 (Sipser) <br> Chapter 2 (Linz)  |  [Lecture 1 -- Introduction to Finite Automata](lectures/lecture1_handout.pdf) <br> [Lecture 2 -- Building Finite Automata](lectures/lecture2_handout.pdf) <br> [Quiz 1](quiz/quiz1.pdf)|
+|  Deterministic Finite Automata (Week 1) <br> Chapter 1.1 (Sipser) <br> Chapter 2 (Linz)  |  [Lecture 1 -- Introduction to Finite Automata]() <br> [Lecture 2 -- Building Finite Automata]() <br> [Lab 1]() <br> [Quiz 1]()|
+| Nondeterministic Finite Automata (Week 2) <br>  <br>  |   |
+| Regular Expressions and Non-regular Languages (Week 3) <br>  <br>  |  |
+| Non-regular Languages and Pushdown Automata (Week 4) <br>  <br>  |   |
+| Context-Free Grammars and Equivalence to PDAs (Week 5) <br>  <br>  |   |
+| <br> <b> Exam 1 (Week 6) Feb. 22 </b> |  All material on automata and languages they recognize. |
+
+| Computability Theory (Weeks 7-10)  | Materials
+| :--- |:---  |
+|  Turing Machines (Week 7) <br>  <br>   |   |
+|  Decidable and Turing-recognizable Languages (Week 8) <br>  <br>   |   |
+|  Reductions (Week 9) <br>  <br>   | |
+| <b> Exam 2 (Week 10) Mar. 28 </b> | All material on Turing machines and computability  |
+
+| Complexity Theory (Weeks 11-14)  | Materials
+| :--- |:---  |
+|  P and NP (Week 11) <br>  <br>   |  [Lecture 19 -- Deterministic Time Complexity and P](lectures/lecture19_marked.pdf) <br> [Lecture 20 -- The Class NP](lectures/lecture20_marked.pdf) <br> [Lab 9](labs/Lab9_website.pptx) |
+|  NP Completeness (Week 12) <br>  <br>   |  [Lecture 21 -- NP Completeness of SAT](lectures/lecture21_marked.pdf) <br> [Lecture 22 -- More NP-complete Problems and co-NP](lectures/lecture22_marked.pdf) <br> [Lab 10](labs/Lab10.pdf) |
+|  Interactive Proofs (Week 13) <br>  <br>   |  [Lecture 23 -- Interactive Proof for GNI](lectures/lecture23_marked.pdf) <br> [Lecture 24 -- co-NP \subseteq IP](lectures/lecture24_marked.pdf) <br> [Lab 11](labs/Lab11_website.pdf) |
+|  Zero-Knowledge Proofs and Review (Week 14) <br>  <br>   |  [Lecture 25 -- Zero-Knowledge Proofs](lectures/lecture25_marked.pdf) <br> [Lecture 26 -- Course review](lectures/lecture26_marked.pdf)  |
+
+| Summary   | Materials
+| :--- |:---  |
+| <b> Final Exam </b> DATE AND TIME TBD | Comprehensive but will focus primarily on material after Exam 2.|
+
+<!--
+
+| Finite State Automata and Pushdown Automata (Weeks 1-6) | Materials
+| :--- |:---  |
+|  Deterministic Finite Automata (Week 1) <br> Chapter 1.1 (Sipser) <br> Chapter 2 (Linz)  |  [Lecture 1 -- Introduction to Finite Automata]() <br> [Lecture 2 -- Building Finite Automata]() <br> [Lab 1]() <br> [Quiz 1]()|
 | Nondeterministic Finite Automata (Week 2) <br>  <br>  |  [Lecture 3 -- Introduction to NFAs](lectures/lecture3_handout.pdf) <br> [Lecture 4 -- NFAs and Equivalence to DFAs ](lectures/lecture4_marked.pdf) <br> [Lab 2](labs/Lab2_website.pdf) <br> [Quiz 2](quiz/quiz2.pdf) |
 | Regular Expressions and Non-regular Languages (Week 3) <br>  <br>  |  [Lecture 5 -- Regular Expressions and equivalence to NFAs](lectures/lecture5_marked.pdf) <br> [Lecture 6 --  Pumping Lemma](lectures/lecture6_marked.pdf) <br> [Lab 3](labs/Lab3_website.pdf) <br> [Quiz 3](quiz/quiz3.pdf) |
 | Non-regular Languages and Pushdown Automata (Week 4) <br>  <br>  |  [Lecture 7 -- Using the FA pumping lemma](lectures/lecture7_marked.pdf) <br> [Lecture 8 --  Pushdown Automata ](lectures/lecture8.pdf) <br> [Lab 4](labs/Lab4_website.pdf) |
@@ -77,12 +106,13 @@ layout: home
 | :--- |:---  |
 | <b> Final Exam </b> May 9, 10:20-12:20 | Comprehensive but will focus primarily on material after Exam 2.|
 
-
+-->
 
 </div>
 
 ## Office Hours ##
 
+<!-->
 <div style="font-size:90%">
 
 | Monday  | Tuesday | Wednesday | Thursday | Friday |
@@ -98,6 +128,7 @@ layout: home
 | 1:00-2:30 -- Karl <br> 2:30-4:30 -- Oliver <br> 6:00-7:30 -- Kyle | Exam |   |  |  |
 
 </div>
+-->
 
 <!---
 
@@ -123,4 +154,4 @@ layout: home
 </div>
 -->
 
-All office hours will be held in the common area on the 4th floor of SEH.  For instructions on accessing office hours via Zoom, see Piazza.
+All office hours will be held in the common area on the 4th floor of SEH.  
