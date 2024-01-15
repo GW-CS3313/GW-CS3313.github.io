@@ -60,12 +60,9 @@ The course will be taught through live synchronous lectures. As a 3 credit cours
 
 **Grading:**
    * **20%: Class participation** The class participation grade will consist of the following:
-   
-    * Discussion participation:  Students are expected to actively participate in lectures and lab by asking questions and engaging in discussion, as well as in online discussion through Piazza.  Your level of engagement will be reflected in the participation grade.
-
-    * In-class quizzes: Quizzes will be held either during the lab or during the lecture session. Late arrival means you may miss the quiz - no extra time will be provided for those who arrive late. On average there will be a quiz scheduled approximately every week except during the weeks of the two exams and the first week of class.   
-
-    * Lab exercises:  There will be required in-class (group) exercises during the lab or lecture sessions.  Participation in and submission of these exercises will count towards your participation grade.
+     * Discussion participation:  Students are expected to actively participate in lectures and lab by asking questions and engaging in discussion, as well as in online discussion through Piazza.  Your level of engagement will be reflected in the participation grade.
+     * In-class quizzes: Quizzes will be held either during the lab or during the lecture session. Late arrival means you may miss the quiz - no extra time will be provided for those who arrive late. On average there will be a quiz scheduled approximately every week except during the weeks of the two exams and the first week of class.   
+     * Lab exercises:  There will be required in-class (group) exercises during the lab or lecture sessions.  Participation in and submission of these exercises will count towards your participation grade.
 
    * **30%: Homeworks.** A number of homework assignments will be given. The goal of the homework is to improve your learning of the concepts covered in the lectures. No collaboration of any kind on the homework.  The lowest homework score will be dropped when computing the grade.
 
