@@ -7,24 +7,20 @@ layout: home
     <ul class="contact-list">
         <li><b>Prof. Arkady Yerukhimovich</b></li>
         <li><a href="mailto:arkady@gwu.edu">arkady@gwu.edu</a></li>
-        <li><b> Oliver Broadrick  </b> (GTA) </li>
-        <a href="mailto:obroadrick@gwmail.gwu.edu">obroadrick@gwmail.gwu.edu</a>
-        <li><b> Kyle Vitale </b> (UTA) </li>
-        <li><a href="mailto:kylevitale2@gwu.edu">kylevitale2@gwu.edu</a> </li>
-        <li><b> Pravin Khanal </b> (UTA) </li>
-        <li><a href="mailto:pravinkhanal62@gwmail.gwu.edu">pravinkhanal62@gwmail.gwu.edu</a> </li>
+        <li><b> Ethan Cohen  </b> (UTA) </li>
+        <a href="mailto:ecohen02@gwu.edu">ecohen02@gwu.edu</a>
+        <li><b> Ozzy Simpson </b> (UTA) </li>
+        <li><a href="mailto:ozzy@gwu.edu">ozzy@gwu.edu</a> </li>
     </ul>
 </div>
 <div class="footer-col two-col-2">
     <ul class="contact-list">
         <li><b> Suvasree Biswas </b> (GTA)</li>
         <li><a href="mailto:suvasree@gwmail.gwu.edu">suvasree@gwmail.gwu.edu</a> </li>
-        <li><b> Ryah Carpenter </b> (UTA) </li>
-        <li><a href="mailto:rcarpenter349@gwmail.gwu.edu">rcarpenter349@gwmail.gwu.edu</a> </li>
-        <li><b> Clare Jenney </b> (LA) </li>
-        <li><a href="mailto:cjenney77@gwmail.gwu.edu">cjenney77@gwmail.gwu.edu</a> </li>
-        <li><b> Karl Simon </b> (LA) </li>
-        <li><a href="mailto:ksimon24@gwmail.gwu.edu">ksimon24@gwmail.gwu.edu</a> </li>
+        <li><b> Clare Jenney </b> (UTA) </li>
+        <li><a href="mailto:cjenney77@gwu.eduu">cjenney77@gwu.edu</a> </li>
+        <li><b> Abdulrahman Alsaleh </b> (LA) </li>
+        <li><a href="mailto:aalsaleh31@gwu.edu">aalsaleh31@gwu.edu</a> </li>
       </ul>
 </div>
 </div>
@@ -39,8 +35,9 @@ layout: home
   - <b>This website is permanently under construction - all content subject to change!<b>
 
 ## Class Resources ##
-  - [Piazza](http://piazza.com/gwu/spring2023/cs3313)
+  - [Piazza](https://piazza.com/gwu/spring2024/csci3313)
   - [Blackboard](http://blackboard.gwu.edu)
+  - [Gradescope](https://www.gradescope.com/courses/708826)
   - [JFLAP](http://jflap.org)
   - [JFLAP tutorial and installation video (provided by Grant McClearn, Class of 2021; currently at Stanford)](https://youtu.be/xA2D7kv8IzY)
 
