@@ -77,7 +77,7 @@ layout: home
 | :--- |:---  |
 | <b> Final Exam </b> DATE AND TIME TBD | Comprehensive but will focus primarily on material after Exam 2.|
 
-<!--
+<!---
 
 | Finite State Automata and Pushdown Automata (Weeks 1-6) | Materials
 | :--- |:---  |
@@ -112,7 +112,7 @@ layout: home
 
 ## Office Hours ##
 
-<!-->
+<!---
 <div style="font-size:90%">
 
 | Monday  | Tuesday | Wednesday | Thursday | Friday |
