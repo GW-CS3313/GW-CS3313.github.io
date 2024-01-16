@@ -47,11 +47,11 @@ layout: home
 
 | Introduction  | Materials
 | :--- |:---  |
-| Week 1-Lecture 1 |   [Course Introduction]() |  
+| Week 1-Lecture 0 |   [Course Introduction](lectures/lecture0.pdf) |  
 
 | Finite State Automata and Pushdown Automata (Weeks 1-6) | Materials
 | :--- |:---  |
-|  Deterministic Finite Automata (Week 1) <br> Chapter 1.1 (Sipser) <br> Chapter 2 (Linz)  |  [Lecture 1 -- Introduction to Finite Automata]() <br> [Lecture 2 -- Building Finite Automata]() <br> [Lab 1 -- Review: Proof techniques, Languages, Graphs]() <br> [Quiz 1]()|
+|  Deterministic Finite Automata (Week 1) <br> Chapter 1.1 (Sipser) <br> Chapter 2 (Linz)  |  [Lecture 1 -- Introduction to Finite Automata](lectures/lecture1.pdf) <br> [Lecture 2 -- Building Finite Automata]() <br> [Lab 1 -- Review: Proof techniques, Languages, Graphs]() <br> [Quiz 1]()|
 | Nondeterministic Finite Automata (Week 2) <br>  <br>  |   |
 | Regular Expressions and Non-regular Languages (Week 3) <br>  <br>  |  |
 | Non-regular Languages and Pushdown Automata (Week 4) <br>  <br>  |   |
