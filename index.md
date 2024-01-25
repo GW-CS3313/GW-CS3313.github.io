@@ -52,7 +52,7 @@ layout: home
 | Finite State Automata and Pushdown Automata (Weeks 1-6) | Materials
 | :--- |:---  |
 |  Deterministic Finite Automata (Week 1) <br> Chapter 1.1 (Sipser) <br> Chapter 2 (Linz)  |  [Lecture 1 -- Introduction to Finite Automata](lectures/lecture1.pdf) <br> [Lecture 2 -- Building Finite Automata](lectures/lecture2_marked.pdf) <br> [Lab 1 -- Review: Proof techniques, Languages, Graphs](labs/Lab1.pdf) <br> [Quiz 1](quiz/quiz1.pdf)|
-| Nondeterministic Finite Automata (Week 2) <br>  <br>  |  [Lecture 3 -- Regular Languages and NFAs](lectures/lecture3_marked.pdf) <br> [Lecture 4 ]() <br> [Lab 2]() <br> [Quiz 2]()|
+| Nondeterministic Finite Automata (Week 2) <br>  <br>  |  [Lecture 3 -- Regular Languages and NFAs](lectures/lecture3_marked.pdf) <br> [Lecture 4 ](lectures/lecture4_marked.pdf) <br> [Lab 2](labs/Lab2_website.pdf) <br> [Quiz 2](quiz/quiz2.pdf)|
 | Regular Expressions and Non-regular Languages (Week 3) <br>  <br>  |  |
 | Non-regular Languages and Pushdown Automata (Week 4) <br>  <br>  |   |
 | Context-Free Grammars and Equivalence to PDAs (Week 5) <br>  <br>  |   |
