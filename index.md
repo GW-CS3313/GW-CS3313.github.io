@@ -54,7 +54,7 @@ layout: home
 |  Deterministic Finite Automata (Week 1) <br> Chapter 1.1 (Sipser) <br> Chapter 2 (Linz)  |  [Lecture 1 -- Introduction to Finite Automata](lectures/lecture1.pdf) <br> [Lecture 2 -- Building Finite Automata](lectures/lecture2_marked.pdf) <br> [Lab 1 -- Review: Proof techniques, Languages, Graphs](labs/Lab1.pdf) <br> [Quiz 1](quiz/quiz1.pdf)|
 | Nondeterministic Finite Automata (Week 2) <br>  <br>  |  [Lecture 3 -- Regular Languages and NFAs](lectures/lecture3_marked.pdf) <br> [Lecture 4 -- NFA==DFA and Regular Language Properties using NFAs](lectures/lecture4_marked.pdf) <br> [Lab 2](labs/Lab2_website.pdf) <br> [Quiz 2](quiz/quiz2.pdf)|
 | Regular Expressions and Non-regular Languages (Week 3) <br>  <br>  | [Lecture 5 -- Regular Expressions and equivalence to NFAs](lectures/lecture5_marked.pdf) <br> [Lecture 6 -- Regular Language Pumping Lemma](lectures/lecture6_marked.pdf) <br> [Lab 3](labs/Lab3_web.pdf) <br> [Quiz 3](quiz/quiz3.pdf)|
-| Non-regular Languages and Pushdown Automata (Week 4) <br>  <br>  | [Lecture 7 -- Proving Non-Regularity, Pushdown automata](lectures/lecture7_marked.pdf)  |
+| Non-regular Languages and Pushdown Automata (Week 4) <br>  <br>  | [Lecture 7 -- Proving Non-Regularity, Pushdown automata](lectures/lecture7_marked.pdf) <br> [Lab 4](labs/Lab4_web.pdf) |
 | Context-Free Grammars and Equivalence to PDAs (Week 5) <br>  <br>  |   |
 | <br> <b> Exam 1 (Week 6) Feb. 22 </b> |  All material on automata and languages they recognize. |
 
@@ -116,7 +116,7 @@ layout: home
 
 | Monday  | Tuesday | Wednesday | Thursday | Friday |
 | :--- | :--- | :--- | :--- | :--- |
-| 4:00-6:00 -- Suvasree |   10:00-11:00 -- Arkady <br> 12:45-1:45 -- Ozzy <br> 4:45-6:00 -- Ethan  |  3:30-6:00 -- Ethan <br> 6:00-7:00 -- Ozzy | 10:00-11:00 -- Arkady <br> 12:45-2:00 -- Ozzy  <br> 5:00-7:00 -- Clare | 10:00-12:00 -- Abdul <br> 1:30-3:30 -- Clare|
+| 4:00-6:00 -- Suvasree |   10:00-11:00 -- Arkady <br> 12:45-1:45 -- Ozzy <br> 4:45-6:00 -- Ethan  |  3:30-6:00 -- Ethan <br> 6:00-7:00 -- Ozzy |  12:45-2:00 -- Ozzy  <br> 5:00-6:00 -- Arkady <br> 5:00-7:00 -- Clare | 10:00-12:00 -- Abdul <br> 1:30-3:30 -- Clare|
 
 </div>
 
