@@ -116,11 +116,11 @@ layout: home
 
 | Monday  | Tuesday | Wednesday | Thursday | Friday |
 | :--- | :--- | :--- | :--- | :--- |
-| 4:00-6:00 -- Suvasree |   10:00-11:00 -- Arkady <br> 12:45-3:30 -- Ozzy <br> 4:45-6:00 -- Ethan  |  3:30-6:00 -- Ethan <br> 5:15-7:30 -- Ozzy  |  10:00-11:00 -- Arkady <br> 5:00-7:00 -- Clare | 10:00-12:00 -- Abdul <br> 1:30-3:30 -- Clare|
+| 4:00-6:00 -- Suvasree |   10:00-11:00 -- Arkady <br> 12:45-3:30 -- Ozzy <br> 4:45-6:00 -- Ethan  |  3:30-6:00 -- Ethan <br> 4:00-6:00 -- Abdul <br> 5:15-7:30 -- Ozzy  |  10:00-11:00 -- Arkady <br> 5:00-7:00 -- Clare |  1:30-3:30 -- Clare |
 
 </div>
 
-<!-->
+<!--
 
 NORMAL OFFICE HOURS 
 
