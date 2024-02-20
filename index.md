@@ -56,7 +56,7 @@ layout: home
 | Regular Expressions and Non-regular Languages (Week 3) <br>  <br>  | [Lecture 5 -- Regular Expressions and equivalence to NFAs](lectures/lecture5_marked.pdf) <br> [Lecture 6 -- Regular Language Pumping Lemma](lectures/lecture6_marked.pdf) <br> [Lab 3](labs/Lab3_web.pdf) <br> [Quiz 3](quiz/quiz3.pdf)|
 | Non-regular Languages and Pushdown Automata (Week 4) <br>  <br>  | [Lecture 7 -- Proving Non-Regularity](lectures/lecture7_marked.pdf) <br> [Lecture 8 -- Pushdown Automata](lectures/lecture8_marked.pdf) <br> [Lab 4](labs/Lab4_web.pdf) |
 | Context-Free Grammars and Equivalence to PDAs (Week 5) <br>  <br>  |  [Lecture 9 -- Context Free Grammars](lectures/lecture9_marked.pdf) <br> [Lecture 10 -- PDA==CFG and CFG Pumping Lemma](lectures/lecture10_marked.pdf) <br> [Lab 5](labs/lab5_web.pdf) |
-| <br> <b> Exam 1 (Week 6) Feb. 22 </b> |  All material on automata and languages they recognize. |
+| <br> <b> Exam 1 (Week 6) Feb. 22 </b> |  [Lecture 11 -- Exam 1 Review](lectures/lecture11.pdf) <br> All material on automata and languages they recognize. |
 
 | Computability Theory (Weeks 7-10)  | Materials
 | :--- |:---  |
