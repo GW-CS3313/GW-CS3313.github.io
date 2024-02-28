@@ -60,7 +60,7 @@ layout: home
 
 | Computability Theory (Weeks 7-10)  | Materials
 | :--- |:---  |
-|  Turing Machines (Week 7) <br>  <br>   |   [Lecture 12 -- Introduction to Turing Machines](lectures/lecture12.pdf) |
+|  Turing Machines (Week 7) <br>  <br>   |   [Lecture 12 -- Introduction to Turing Machines](lectures/lecture12_marked.pdf) |
 |  Decidable and Turing-recognizable Languages (Week 8) <br>  <br>   |   |
 |  Reductions (Week 9) <br>  <br>   | |
 | <b> Exam 2 (Week 10) Mar. 28 </b> | All material on Turing machines and computability  |
@@ -116,7 +116,7 @@ layout: home
 
 | Monday  | Tuesday | Wednesday | Thursday | Friday |
 | :--- | :--- | :--- | :--- | :--- |
-| 4:00-6:00 -- Suvasree |   10:00-11:00 -- Arkady <br> 12:45-3:30 -- Ozzy <br> 4:45-6:00 -- Ethan  |  3:30-6:00 -- Ethan |  10:00-11:00 -- Arkady <br> 12:45-2:00 -- Ozzy <br> 5:00-7:00 -- Clare |  10:00-12:00 -- Abdul <br> 1:30-3:30 -- Clare |
+| 4:00-6:00 -- Suvasree |   10:00-11:00 -- Arkady <br> 12:45-3:30 -- Ozzy <br> 4:45-6:00 -- Ethan  |  3:30-6:00 -- Ethan |   12:45-2:00 -- Ozzy <br> 2:30-3:30 -- Arkady <br> 5:00-7:00 -- Clare |  10:00-12:00 -- Abdul <br> 1:30-3:30 -- Clare |
 
 </div>
 
