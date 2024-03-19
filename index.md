@@ -62,7 +62,7 @@ layout: home
 | :--- |:---  |
 |  Turing Machines (Week 7) <br>  <br>   |   [Lecture 12 -- Introduction to Turing Machines](lectures/lecture12_marked.pdf) <br> [Lecture 13 -- More Turing Machines and Variants](lectures/lecture13_marked.pdf) <br> [Lab 6](labs/Lab6_web.pdf) |
 |  Decidable and Turing-recognizable Languages (Week 8) <br>  <br>   |  [Lecture 14 -- Decidable Languages about Machines](lectures/lecture14_marked.pdf) <br> [Lecture 15 -- An Undecidable Language](lectures/lecture15_marked.pdf) <br> [Lab 7](labs/Lab7_web.pdf)  |
-|  Reductions (Week 9) <br>  <br>   | |
+|  Reductions (Week 9) <br>  <br>   | [Lecture 16 -- Reductions](lectures/lecture16.pdf) |
 | <b> Exam 2 (Week 10) Mar. 28 </b> | All material on Turing machines and computability  |
 
 | Complexity Theory (Weeks 11-14)  | Materials
@@ -116,7 +116,7 @@ layout: home
 
 | Monday  | Tuesday | Wednesday | Thursday | Friday |
 | :--- | :--- | :--- | :--- | :--- |
-| 4:00-6:00 -- Suvasree |   10:00-11:00 -- Arkady <br> 12:45-2:30 -- Ozzy <br> 4:45-6:00 -- Ethan  |  3:30-6:00 -- Ethan <br> 6:00-7:00 -- Ozzy |   10:00-11:00 -- Arkady <br> 12:45-2:00 -- Ozzy <br>  5:00-7:00 -- Clare |  10:00-12:00 -- Abdul <br> 1:30-3:30 -- Clare |
+| 4:00-6:00 -- Suvasree |   12:45-2:30 -- Ozzy <br> 4:45-6:00 -- Ethan  |  3:30-6:00 -- Ethan <br> 5:30-6:30 -- Ozzy |   10:00-11:00 -- Arkady <br> 12:45-2:00 -- Ozzy <br>  5:00-7:00 -- Clare |  10:00-12:00 -- Abdul <br> 1:30-3:30 -- Clare |
 
 </div>
 
