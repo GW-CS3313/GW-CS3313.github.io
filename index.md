@@ -112,7 +112,7 @@ layout: home
 ## Office Hours ##
 
 
-<!-->
+<!--
 <div style="font-size:90%">
 
 | Monday  | Tuesday | Wednesday | Thursday | Friday |
