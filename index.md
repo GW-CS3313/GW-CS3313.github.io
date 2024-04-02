@@ -67,7 +67,7 @@ layout: home
 
 | Complexity Theory (Weeks 11-14)  | Materials
 | :--- |:---  |
-|  P and NP (Week 11) <br>  <br>   | |
+|  P and NP (Week 11) <br>  <br>   | [Lecture 19 -- Polynomial Time Computation](lectures/lecture19_marked.pdf) |
 |  NP Completeness (Week 12) <br>  <br>   |  |
 |  Interactive Proofs (Week 13) <br>  <br>   |   |
 |  Zero-Knowledge Proofs and Review (Week 14) <br>  <br>   |    |
