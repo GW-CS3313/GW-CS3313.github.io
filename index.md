@@ -68,7 +68,7 @@ layout: home
 | Complexity Theory (Weeks 11-14)  | Materials
 | :--- |:---  |
 |  P and NP (Week 11) <br>  <br>   | [Lecture 19 -- Polynomial Time Computation](lectures/lecture19_marked.pdf) <br> [Lab 9](labs/Lab9_web.pdf) <br> [Lecture 20 -- The Class NP](lectures/lecture20_marked.pdf) <br> [Quiz](quiz/quiz4.pdf)|
-|  NP Completeness (Week 12) <br>  <br>   |  |
+|  NP Completeness (Week 12) <br>  <br>   | [Lecture 21 -- NP Completeness](lectures/lecture21.pdf) |
 |  Interactive Proofs (Week 13) <br>  <br>   |   |
 |  Zero-Knowledge Proofs and Review (Week 14) <br>  <br>   |    |
 
@@ -116,7 +116,7 @@ layout: home
 
 | Monday  | Tuesday | Wednesday | Thursday | Friday |
 | :--- | :--- | :--- | :--- | :--- |
-| 4:00-6:00 -- Suvasree |    12:45-2:30 -- Ozzy <br> 2:30-3:30 -- Arkady <br> 4:45-6:00 -- Ethan  |  3:30-6:00 -- Ethan <br> 6:00-7:00 -- Ozzy | 10:00-11:00 -- Arkady <br> 12:45-2:00 -- Ozzy  <br> 5:00-7:00 -- Clare | 10:00-12:00 -- Abdul <br> 1:30-3:30 -- Clare|
+| 4:00-6:00 -- Suvasree |   10:00-11:00 -- Arkady <br> 12:45-2:30 -- Ozzy <br> 4:45-6:00 -- Ethan  |  3:30-6:00 -- Ethan <br> 6:00-7:00 -- Ozzy | 10:00-11:00 -- Arkady <br> 12:45-2:00 -- Ozzy  <br> 5:00-7:00 -- Clare | 10:00-12:00 -- Abdul <br> 1:30-3:30 -- Clare|
 
 </div>
 
