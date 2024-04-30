@@ -111,7 +111,7 @@ layout: home
 
 ## Office Hours:  See Piazza for updated office hours ##
 
-<!-->
+<!--
 <div style="font-size:90%">
 
 | Monday  | Tuesday | Wednesday | Thursday | Friday |
