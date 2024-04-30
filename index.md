@@ -70,11 +70,11 @@ layout: home
 |  P and NP (Week 11) <br>  <br>   | [Lecture 19 -- Polynomial Time Computation](lectures/lecture19_marked.pdf) <br> [Lab 9](labs/Lab9_web.pdf) <br> [Lecture 20 -- The Class NP](lectures/lecture20_marked.pdf) <br> [Quiz](quiz/quiz4.pdf)|
 |  NP Completeness (Week 12) <br>  <br>   | [Lecture 21 -- NP Completeness](lectures/lecture21_marked.pdf) <br> [Lecture 22 -- More NP Complete Problems](lectures/lecture22_marked.pdf) <br> [Lab 10](labs/Lab10_web.pdf) |
 |  Complexity Classes and Interactive Proofs (Week 13) <br>  <br>   |   [Lecture 23 -- P, NP, and co-NP](lectures/lecture23_marked.pdf) <br> [Lecture 24 -- Interactive Proofs](lectures/lecture24.pdf) <br> [Lab 11](labs/lab11.pdf) |
-|  Zero-Knowledge Proofs and Review (Week 14) <br>  <br>   |  [Lecture 25 -- Zero-Knowledge Proofs](lectures/lecture25_marked.pdf)  <br> [Lecture 26 -- Exam 3 Review](lectures/lecture26.pdf)|
+|  Zero-Knowledge Proofs and Review (Week 14) <br>  <br>   |  [Lecture 25 -- Zero-Knowledge Proofs](lectures/lecture25_marked.pdf)  <br> [Lecture 26 -- Exam 3 Review](lectures/lecture26_marked.pdf)|
 
 | Summary   | Materials
 | :--- |:---  |
-| <b> Final Exam </b> DATE AND TIME TBD | Comprehensive but will focus primarily on material after Exam 2.|
+| <b> Final Exam </b> Tuesday, May 7, 10:20-12:20 | Comprehensive but will focus primarily on material after Exam 2.|
 
 <!---
 
@@ -109,9 +109,9 @@ layout: home
 
 </div>
 
-## Office Hours ##
+## Office Hours:  See Piazza for updated office hours ##
 
-
+<!-->
 <div style="font-size:90%">
 
 | Monday  | Tuesday | Wednesday | Thursday | Friday |
@@ -119,7 +119,7 @@ layout: home
 | 4:00-6:00 -- Suvasree |   12:45-2:30 -- Ozzy  <br> 2:30-3:30 -- Arkady <br> 4:45-5:30 -- Ethan  |  3:30-6:00 -- Ethan <br> 6:00-7:00 -- Ozzy | 10:00-11:00 -- Arkady <br> 1:30-2:30 -- Arkady   |  |
 
 </div>
-
+-->
 
 <!--
 
