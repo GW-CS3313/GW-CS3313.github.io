@@ -7,8 +7,8 @@ layout: home
     <ul class="contact-list">
         <li><b>Prof. Arkady Yerukhimovich</b></li>
         <li><a href="mailto:arkady@gwu.edu">arkady@gwu.edu</a></li>
-        <li><b> Ethan Cohen  </b> (UTA) </li>
-        <a href="mailto:ecohen02@gwu.edu">ecohen02@gwu.edu</a>
+        <li><b> Jie Hou  </b> (GTA) </li>
+        <a href="mailto:houjie@gwu.edu">houjie@gwu.edu</a>
         <li><b> Ozzy Simpson </b> (UTA) </li>
         <li><a href="mailto:ozzy@gwu.edu">ozzy@gwu.edu</a> </li>
     </ul>
@@ -17,10 +17,10 @@ layout: home
     <ul class="contact-list">
         <li><b> Suvasree Biswas </b> (GTA)</li>
         <li><a href="mailto:suvasree@gwmail.gwu.edu">suvasree@gwmail.gwu.edu</a> </li>
-        <li><b> Clare Jenney </b> (UTA) </li>
-        <li><a href="mailto:cjenney77@gwu.edu">cjenney77@gwu.edu</a> </li>
-        <li><b> Abdulrahman Alsaleh </b> (LA) </li>
-        <li><a href="mailto:aalsaleh31@gwu.edu">aalsaleh31@gwu.edu</a> </li>
+        <li><b> Freya Rosenstein </b> (UTA) </li>
+        <li><a href="mailto:frrosenstein@gwu.edu">frrosenstein@gwu.edu</a> </li>
+        <li><b> Laura Anker </b> (LA) </li>
+        <li><a href="mailto:lanker70@gwu.edu">lanker70@gwu.edu</a> </li>
       </ul>
 </div>
 </div>
@@ -47,34 +47,34 @@ layout: home
 
 | Introduction  | Materials
 | :--- |:---  |
-| Week 1-Lecture 0 |   [Course Introduction](lectures/lecture0.pdf) |  
+| Week 1-Lecture 0 |   [Course Introduction]() |  
 
 | Finite State Automata and Pushdown Automata (Weeks 1-6) | Materials
 | :--- |:---  |
-|  Deterministic Finite Automata (Week 1) <br> Chapter 1.1 (Sipser) <br> Chapter 2 (Linz)  |  [Lecture 1 -- Introduction to Finite Automata](lectures/lecture1.pdf) <br> [Lecture 2 -- Building Finite Automata](lectures/lecture2_marked.pdf) <br> [Lab 1 -- Review: Proof techniques, Languages, Graphs](labs/Lab1.pdf) <br> [Quiz 1](quiz/quiz1.pdf)|
-| Nondeterministic Finite Automata (Week 2) <br>  <br>  |  [Lecture 3 -- Regular Languages and NFAs](lectures/lecture3_marked.pdf) <br> [Lecture 4 -- NFA==DFA and Regular Language Properties using NFAs](lectures/lecture4_marked.pdf) <br> [Lab 2](labs/Lab2_website.pdf) <br> [Quiz 2](quiz/quiz2.pdf)|
-| Regular Expressions and Non-regular Languages (Week 3) <br>  <br>  | [Lecture 5 -- Regular Expressions and equivalence to NFAs](lectures/lecture5_marked.pdf) <br> [Lecture 6 -- Regular Language Pumping Lemma](lectures/lecture6_marked.pdf) <br> [Lab 3](labs/Lab3_web.pdf) <br> [Quiz 3](quiz/quiz3.pdf)|
-| Non-regular Languages and Pushdown Automata (Week 4) <br>  <br>  | [Lecture 7 -- Proving Non-Regularity](lectures/lecture7_marked.pdf) <br> [Lecture 8 -- Pushdown Automata](lectures/lecture8_marked.pdf) <br> [Lab 4](labs/Lab4_web.pdf) |
-| Context-Free Grammars and Equivalence to PDAs (Week 5) <br>  <br>  |  [Lecture 9 -- Context Free Grammars](lectures/lecture9_marked.pdf) <br> [Lecture 10 -- PDA==CFG and CFG Pumping Lemma](lectures/lecture10_marked.pdf) <br> [Lab 5](labs/lab5_web.pdf) |
-| <br> <b> Exam 1 (Week 6) Feb. 22 </b> |  [Lecture 11 -- Exam 1 Review](lectures/lecture11_marked.pdf) <br> All material on automata and languages they recognize. |
+|  Deterministic Finite Automata (Week 1) <br> Chapter 1.1 (Sipser) <br> Chapter 2 (Linz)  |  |
+| Nondeterministic Finite Automata (Week 2) <br>  <br>  |  |
+| Regular Expressions and Non-regular Languages (Week 3) <br>  <br>  | |
+| Non-regular Languages and Pushdown Automata (Week 4) <br>  <br>  | |
+| Context-Free Grammars and Equivalence to PDAs (Week 5) <br>  <br>  |  All material on finite automata |
+| <br> <b> Exam 1 (Week 6) Feb. 22 </b> |  |
 
 | Computability Theory (Weeks 7-10)  | Materials
 | :--- |:---  |
-|  Turing Machines (Week 7) <br>  <br>   |   [Lecture 12 -- Introduction to Turing Machines](lectures/lecture12_marked.pdf) <br> [Lecture 13 -- More Turing Machines and Variants](lectures/lecture13_marked.pdf) <br> [Lab 6](labs/Lab6_web.pdf) |
-|  Decidable and Turing-recognizable Languages (Week 8) <br>  <br>   |  [Lecture 14 -- Decidable Languages about Machines](lectures/lecture14_marked.pdf) <br> [Lecture 15 -- An Undecidable Language](lectures/lecture15_marked.pdf) <br> [Lab 7](labs/Lab7_web.pdf)  |
-|  Reductions (Week 9) <br>  <br>   | [Lecture 16 -- Reductions](lectures/lecture16_marked.pdf) <br> [Lecture 17 -- Reduction Types and Kolmogorov Complexity](lectures/lecture17_marked.pdf) <br> [Lab 8](labs/Lab8_web.pdf) |
-| <b> Exam 2 (Week 10) Mar. 28 </b> | [Lecture 18 -- Exam 2 Review](lectures/lecture18_marked.pdf) <br> All material on Turing machines and computability  |
+|  Turing Machines (Week 7) <br>  <br>   |    |
+|  Decidable and Turing-recognizable Languages (Week 8) <br>  <br>   |   |
+|  Reductions (Week 9) <br>  <br>   |  |
+| <b> Exam 2 (Week 10) Mar. 28 </b> | All material on Turing machines and computability  |
 
 | Complexity Theory (Weeks 11-14)  | Materials
 | :--- |:---  |
-|  P and NP (Week 11) <br>  <br>   | [Lecture 19 -- Polynomial Time Computation](lectures/lecture19_marked.pdf) <br> [Lab 9](labs/Lab9_web.pdf) <br> [Lecture 20 -- The Class NP](lectures/lecture20_marked.pdf) <br> [Quiz](quiz/quiz4.pdf)|
-|  NP Completeness (Week 12) <br>  <br>   | [Lecture 21 -- NP Completeness](lectures/lecture21_marked.pdf) <br> [Lecture 22 -- More NP Complete Problems](lectures/lecture22_marked.pdf) <br> [Lab 10](labs/Lab10_web.pdf) |
-|  Complexity Classes and Interactive Proofs (Week 13) <br>  <br>   |   [Lecture 23 -- P, NP, and co-NP](lectures/lecture23_marked.pdf) <br> [Lecture 24 -- Interactive Proofs](lectures/lecture24.pdf) <br> [Lab 11](labs/lab11.pdf) |
-|  Zero-Knowledge Proofs and Review (Week 14) <br>  <br>   |  [Lecture 25 -- Zero-Knowledge Proofs](lectures/lecture25_marked.pdf)  <br> [Lecture 26 -- Exam 3 Review](lectures/lecture26_marked.pdf)|
+|  P and NP (Week 11) <br>  <br>   | |
+|  NP Completeness (Week 12) <br>  <br>   |  |
+|  Complexity Classes and Interactive Proofs (Week 13) <br>  <br>   |  |
+|  Zero-Knowledge Proofs and Review (Week 14) <br>  <br>   |  |
 
 | Summary   | Materials
 | :--- |:---  |
-| <b> Final Exam </b> Tuesday, May 7, 10:20-12:20 | Comprehensive but will focus primarily on material after Exam 2.|
+| <b> Final Exam </b> TBD | Comprehensive but will focus primarily on material after Exam 2.|
 
 <!---
 
@@ -109,7 +109,7 @@ layout: home
 
 </div>
 
-## Office Hours:  See Piazza for updated office hours ##
+## Office Hours:  ##
 
 <!--
 <div style="font-size:90%">
