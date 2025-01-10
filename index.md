@@ -55,8 +55,8 @@ layout: home
 | Nondeterministic Finite Automata (Week 2) <br>  <br>  |  |
 | Regular Expressions and Non-regular Languages (Week 3) <br>  <br>  | |
 | Non-regular Languages and Pushdown Automata (Week 4) <br>  <br>  | |
-| Context-Free Grammars and Equivalence to PDAs (Week 5) <br>  <br>  |  All material on finite automata |
-| <br> <b> Exam 1 (Week 6) Feb. 22 </b> |  |
+| Context-Free Grammars and Equivalence to PDAs (Week 5) <br>  <br>  |   |
+| <br> <b> Exam 1 (Week 6) Feb. 22 </b> | All material on finite automata |
 
 | Computability Theory (Weeks 7-10)  | Materials
 | :--- |:---  |

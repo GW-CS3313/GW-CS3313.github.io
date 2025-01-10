@@ -23,10 +23,10 @@ Check [Course Homepage](https://gw-cs3313.github.io/) for updated hours.
 
 **Course Staff:**
   - [Suvasree Biswas](mailto:suvasree@gwmail.gwu.edu) - GTA
-  - [Ethan Cohen](mailto:ecohen02@gwu.edu) - UTA
-  - [Clare Jenney](mailto:cjenney77@gwu.edu) - UTA
+  - [Jie Hou](mailto:houjie@gwu.edu) - GTA
+  - [Freya Rosenstein](frrosenstein@gwu.edu) - UTA
   - [Ozzy Simpson](mailto:ozzy@gwu.edu) - UTA
-  - [Abdulrahman Alsaleh](mailto:aalsaleh31@gwu.edu) - LA
+  - [Laura Anker](mailto:lanker70@gwu.edu) - LA
 
 ### Course Description and Learning Outcomes  ###
 
@@ -50,7 +50,7 @@ There are three options for a textbook; the instructor recommends the book by Si
     * [An Introduction to Formal Languages and Automata, 6th edition,](http://jblearning.com) by Peter Linz, published by Jones and Bartlett Learning.  (6th edition) -- this book gives a more detailed overview of material covered in the first 2/3 of the course.
     * [Introduction to Theoretical Computer Science](https://github.com/boazbk/tcs/releases/download/v0.94/introtcs_august21_2022.pdf) by Boaz Barak -- this book gives a more advanced overview of the material covered in this course along with many advanced topics.
 
-  * **Software:** [JFLAP Automata Simulator](http://jflap.org):   this is an automata simulation tool that we will be using to design and test automata.
+  * **Software:** [JFLAP Automata Simulator](http://jflap.org):   this is an an automata simulation tool that can be helpful to design and test automata.
 
 ### Lab Sections  ### 
 You must be registered in a lab section -- the sections meet on Wednesday 10:00am and 11:15am. These will be conducted by the TAs. The labs will review material but will also include exercises, quizzes and discussions.
