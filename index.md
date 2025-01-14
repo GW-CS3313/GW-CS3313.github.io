@@ -35,7 +35,7 @@ layout: home
   - <b>This website is permanently under construction - all content subject to change!<b>
 
 ## Class Resources ##
-  - [Piazza](https://piazza.com/gwu/spring2024/csci3313)
+  - [Piazza](https://piazza.com/gwu/spring2025/cs3313)
   - [Blackboard](http://blackboard.gwu.edu)
   - [Gradescope](https://www.gradescope.com/courses/708826)
   - [JFLAP](http://jflap.org)
