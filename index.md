@@ -37,7 +37,7 @@ layout: home
 ## Class Resources ##
   - [Piazza](https://piazza.com/gwu/spring2025/cs3313)
   - [Blackboard](http://blackboard.gwu.edu)
-  - [Gradescope](https://www.gradescope.com/courses/708826)
+  - [Gradescope](https://www.gradescope.com/courses/949314)
   - [JFLAP](http://jflap.org)
   - [JFLAP tutorial and installation video (provided by Grant McClearn, Class of 2021; currently at Stanford)](https://youtu.be/xA2D7kv8IzY)
 
@@ -51,19 +51,19 @@ layout: home
 
 | Finite State Automata and Pushdown Automata (Weeks 1-6) | Materials
 | :--- |:---  |
-|  Deterministic Finite Automata (Week 1) <br> Chapter 1.1 (Sipser) <br> Chapter 2 (Linz)  |  |
+| Deterministic Finite Automata (Week 1) <br> Chapter 1.1 (Sipser) <br> Chapter 2 (Linz)  |  |
 | Nondeterministic Finite Automata (Week 2) <br>  <br>  |  |
 | Regular Expressions and Non-regular Languages (Week 3) <br>  <br>  | |
 | Non-regular Languages and Pushdown Automata (Week 4) <br>  <br>  | |
 | Context-Free Grammars and Equivalence to PDAs (Week 5) <br>  <br>  |   |
-| <br> <b> Exam 1 (Week 6) Feb. 22 </b> | All material on finite automata |
+| <br> <b> Exam 1 (Week 6) Feb. 20 </b> | All material on finite automata |
 
 | Computability Theory (Weeks 7-10)  | Materials
 | :--- |:---  |
 |  Turing Machines (Week 7) <br>  <br>   |    |
 |  Decidable and Turing-recognizable Languages (Week 8) <br>  <br>   |   |
 |  Reductions (Week 9) <br>  <br>   |  |
-| <b> Exam 2 (Week 10) Mar. 28 </b> | All material on Turing machines and computability  |
+| <b> Exam 2 (Week 10) Mar. 27 </b> | All material on Turing machines and computability  |
 
 | Complexity Theory (Weeks 11-14)  | Materials
 | :--- |:---  |
