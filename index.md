@@ -51,7 +51,7 @@ layout: home
 
 | Finite State Automata and Pushdown Automata (Weeks 1-6) | Materials
 | :--- |:---  |
-| Deterministic Finite Automata (Week 1) <br> Chapter 1.1 (Sipser) <br> Chapter 2 (Linz)  | [Lecture 1 -- Finite Automata](lectures/lecture1.pdf) <br> [Lecture 2 -- Building DFAs](lectures/lecture2.pdf) |
+| Deterministic Finite Automata (Week 1) <br> Chapter 1.1 (Sipser) <br> Chapter 2 (Linz)  | [Lecture 1 -- Finite Automata](lectures/lecture1.pdf) <br> [Lecture 2 -- Building DFAs](lectures/lecture2_marked.pdf) |
 | Nondeterministic Finite Automata (Week 2) <br>  <br>  |  |
 | Regular Expressions and Non-regular Languages (Week 3) <br>  <br>  | |
 | Non-regular Languages and Pushdown Automata (Week 4) <br>  <br>  | |
@@ -111,15 +111,13 @@ layout: home
 
 ## Office Hours:  ##
 
-<!--
 <div style="font-size:90%">
 
 | Monday  | Tuesday | Wednesday | Thursday | Friday |
 | :--- | :--- | :--- | :--- | :--- |
-| 4:00-6:00 -- Suvasree |   12:45-2:30 -- Ozzy  <br> 2:30-3:30 -- Arkady <br> 4:45-5:30 -- Ethan  |  3:30-6:00 -- Ethan <br> 6:00-7:00 -- Ozzy | 10:00-11:00 -- Arkady <br> 1:30-2:30 -- Arkady   |  |
+| 2:10-3:10 -- Freya |   10:00-11:00 -- Arkady  <br> 12:45-3:45 -- Freya <br> 5:00-6:00 -- Jie  |  3:30-5:00 -- Ozzy <br> 5:00-6:00 -- Jie <br> 6:00-8:00 -- Suvasree | 1:00-3:00 -- Laura <br> 5:00-6:00 -- Ozzy   | 10:30-12:00 -- Ozzy <br> 12:00-1:00 -- Arkady |
 
 </div>
--->
 
 <!--
 
