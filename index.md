@@ -115,7 +115,7 @@ layout: home
 
 | Monday  | Tuesday | Wednesday | Thursday | Friday |
 | :--- | :--- | :--- | :--- | :--- |
-| 2:10-3:10 -- Freya |   10:00-11:00 -- Arkady  <br> 12:45-3:45 -- Freya <br> 5:00-6:00 -- Jie  |  3:30-5:00 -- Ozzy <br> 5:00-6:00 -- Jie <br> 6:00-8:00 -- Suvasree | 1:00-3:00 -- Laura <br> 5:00-6:00 -- Ozzy   | 10:30-12:00 -- Ozzy <br> 12:00-1:00 -- Arkady |
+| 2:10-3:10 -- Freya |   10:00-11:00 -- Arkady  <br> 1:30-3:30 -- Freya <br> 5:00-6:00 -- Jie  |  3:30-5:00 -- Ozzy <br> 5:00-6:00 -- Jie <br> 6:00-8:00 -- Suvasree | 1:00-3:00 -- Laura <br> 5:00-6:00 -- Ozzy   | 10:30-12:00 -- Ozzy <br> 12:00-1:00 -- Arkady |
 
 </div>
 
