@@ -54,7 +54,7 @@ layout: home
 | Deterministic Finite Automata (Week 1) <br> Chapter 1.1 (Sipser) <br> Chapter 2 (Linz)  | [Lecture 1 -- Finite Automata](lectures/lecture1.pdf) <br> [Lecture 2 -- Building DFAs](lectures/lecture2_marked.pdf) <br> [Quiz 1](quiz/quiz1.pdf) <br> [Review of Proof Techniques](labs/ProofReview.pdf)|
 | Nondeterministic Finite Automata (Week 2) <br>  <br>  | [Lecture 3 -- Regular Languages and Nondeterminism](lectures/lecture3_marked.pdf) <br> [Lecture 4 -- NFA==DFA](lectures/lecture4_marked.pdf) <br> [Lab 1](labs/Lab1_web.pdf) <br> [Quiz 2](quiz/quiz2.pdf)|
 | Regular Expressions and Non-regular Languages (Week 3) <br>  <br>  | [Lecture 5 -- NFAs and Regular Expressions](lectures/lecture5_marked.pdf) <br> [Lecture 6 -- Regular Language Pumping Lemma](lectures/lecture6_marked.pdf) <br> [Lab 2](labs/Lab2_web.pdf) <br> [Quiz 3](quiz/quiz3.pdf) |
-| Non-regular Languages and Pushdown Automata (Week 4) <br>  <br>  | [Lecture 7 -- Proving Languages Not Regular](lectures/lecture7_marked.pdf) <br> [Hackathon](lectures/Hackathon.jpg) <br> [Lab 3](labs/Lab3_web.pdf) |
+| Non-regular Languages and Pushdown Automata (Week 4) <br>  <br>  | [Lecture 7 -- Proving Languages Not Regular](lectures/lecture7_marked.pdf) <br> [Lecture 8 -- PDAs](lectures/lecture8_marked.pdf) <br> [Hackathon](lectures/Hackathon.jpg) <br> [Lab 3](labs/Lab3_web.pdf) |
 | Context-Free Grammars and Equivalence to PDAs (Week 5) <br>  <br>  |   |
 | <br> <b> Exam 1 (Week 6) Feb. 20 </b> | All material on finite automata |
 
