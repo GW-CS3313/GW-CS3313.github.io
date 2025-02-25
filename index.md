@@ -60,7 +60,7 @@ layout: home
 
 | Computability Theory (Weeks 7-10)  | Materials
 | :--- |:---  |
-|  Turing Machines (Week 7) <br>  <br>   |    |
+|  Turing Machines (Week 7) <br>  <br>   |  [Lecture 12 -- Turing Machines](lectures/lecture12.pdf)  |
 |  Decidable and Turing-recognizable Languages (Week 8) <br>  <br>   |   |
 |  Reductions (Week 9) <br>  <br>   |  |
 | <b> Exam 2 (Week 10) Mar. 27 </b> | All material on Turing machines and computability  |
