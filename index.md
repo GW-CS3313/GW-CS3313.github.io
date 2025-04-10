@@ -68,7 +68,7 @@ layout: home
 | Complexity Theory (Weeks 11-14)  | Materials
 | :--- |:---  |
 |  P and NP (Week 11) <br>  <br>   | [Lecture 19 -- P](lectures/lecture19_marked.pdf) <br> [Lecture 20 -- NP](lectures/lecture20_marked.pdf) <br> [Quiz 5](quiz/quiz5.pdf) <br> [Lab 9](labs/Lab9_web.pdf) |
-|  NP Completeness (Week 12) <br>  <br>   | [Lecture 21 -- NP-Completeness](lectures/lecture21_marked.pdf) <br> [Lab 10](labs/lab10_web.pdf) |
+|  NP Completeness (Week 12) <br>  <br>   | [Lecture 21 -- NP-Completeness](lectures/lecture21_marked.pdf) <br> [Lecture 22 -- More NP-Completeness](lectures/lecture22.pdf) <br> [Lab 10](labs/lab10_web.pdf) |
 |  Complexity Classes and Interactive Proofs (Week 13) <br>  <br>   |  |
 |  Zero-Knowledge Proofs and Review (Week 14) <br>  <br>   |  |
 
