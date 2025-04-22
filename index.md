@@ -69,8 +69,8 @@ layout: home
 | :--- |:---  |
 |  P and NP (Week 11) <br>  <br>   | [Lecture 19 -- P](lectures/lecture19_marked.pdf) <br> [Lecture 20 -- NP](lectures/lecture20_marked.pdf) <br> [Quiz 5](quiz/quiz5.pdf) <br> [Lab 9](labs/Lab9_web.pdf) |
 |  NP Completeness (Week 12) <br>  <br>   | [Lecture 21 -- NP-Completeness](lectures/lecture21_marked.pdf) <br> [Lecture 22 -- More NP-Completeness](lectures/lecture22_marked.pdf) <br> [Lab 10](labs/lab10_web.pdf) |
-|  Complexity Classes and Interactive Proofs (Week 13) <br>  <br>   | [Lecture 23 -- Ladner's Theorem and co-NP](lectures/lecture23.pdf) <br> [Lecture 24 -- Interactive Proofs](lectures/lecture24.pdf) <br> [Lab 11](labs/lab11.pdf) |
-|  Zero-Knowledge Proofs and Review (Week 14) <br>  <br>   |  |
+|  Complexity Classes and Interactive Proofs (Week 13) <br>  <br>   | [Lecture 23 -- Ladner's Theorem and co-NP](lectures/lecture23_marked.pdf) <br> [Lecture 24 -- Interactive Proofs](lectures/lecture24_marked.pdf) <br> [Lab 11](labs/lab11.pdf) |
+|  Zero-Knowledge Proofs and Review (Week 14) <br>  <br>   | [Lecture 25 -- ZK Proofs](lectures/lecture25.pdf) |
 
 | Summary   | Materials
 | :--- |:---  |
